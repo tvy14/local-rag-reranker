@@ -1,4 +1,4 @@
-#Simple Init Test RAG QA
+# Simple Init Test RAG QA
 
 🚨  **Minimum Requirements `Python > 3.10.x` with  `SQLite > 3.35`**
 
@@ -7,12 +7,12 @@
 
 
 
-## 🤖 Prerequisites
+## 1st Step : Prerequisites
 
 - Ollama
 - packages inside 'requirements'
 
-## 🔨 Setting up locally
+## 2nd Step : Setting up locally 🔨
 
 Create virtualenv and install dependencies.
 
@@ -20,7 +20,7 @@ Create virtualenv and install dependencies.
 make setup
 ```
 
-## ⚡️ Running the application
+## 3rd Step : Running the Application ⚡️
 
 ```sh
 make run
@@ -38,7 +38,7 @@ Auto-fix lining violations:
 make fix
 ```
 
-## 🤸‍♀️ Getting Help
+## HELP
 
 ```sh
 make
@@ -48,6 +48,6 @@ make
 make help
 ```
 
-## 🔧 Common Issues and Fixes
+## Common Issues and Fixes 🔧 
 
-- TBAdded
+- TB Added

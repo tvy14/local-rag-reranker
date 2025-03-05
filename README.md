@@ -9,7 +9,11 @@
 
 ## 1st Step : Prerequisites
 
-- Ollama
+- Ollama (because in my makefile I define llama3.2-1b and embeddings model nomic-embed-text)
+```sh
+ollama pull llama3.2:1b
+ollama pull nomic-embed-text
+```
 - packages inside 'requirements'
 
 ## 2nd Step : Setting up locally 🔨

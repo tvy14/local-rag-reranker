@@ -1,6 +1,6 @@
 # Simple Init Test RAG QA
 
-🚨  **Minimum Requirements `Python > 3.10.x` with  `SQLite > 3.35`**
+🚨  **Minimum Requirements `Python > 3.10.x` with  `SQLite > 3.35`, WSL/Ubuntu System**
 
 
 ---

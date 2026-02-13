@@ -1,4 +1,4 @@
-# Simple Init Test RAG QA
+# I make easy RAG so you don't have to!
 
 🚨  **Minimum Requirements `Python > 3.10.x` with  `SQLite > 3.35`, WSL/Ubuntu System**
 
